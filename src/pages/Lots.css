@@ -1,0 +1,49 @@
+.lots-section {
+    padding: 2em;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .lots-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    margin-top: 1.5em;
+  }
+  
+  .lot-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 1em;
+    width: calc(33.333% - 1em);
+    box-sizing: border-box;
+  }
+  
+  .lot-card h3 {
+    margin: 0 0 0.5em 0;
+    font-size: 1em;
+    color: #b32700;
+  }
+  
+  .lot-card p {
+    margin: 0;
+    font-size: 0.9em;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .lot-card {
+      width: calc(50% - 1em);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .lot-card {
+      width: 100%;
+    }
+  }
+  

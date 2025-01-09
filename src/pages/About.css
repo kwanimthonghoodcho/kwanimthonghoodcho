@@ -1,0 +1,55 @@
+.bugis-photo {
+    height: 24em;
+    padding: 1em;
+    will-change: filter;
+    transition: filter 300ms;
+  }
+
+.about-page {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.about-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-header h1 {
+    font-size: 2rem;
+    color: #d32f2f;
+}
+
+.about-header p {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.about-section {
+    margin-bottom: 30px;
+}
+
+.about-section h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.about-section p, .about-section li {
+    color: #666;
+}
+
+.about-section ul {
+    padding-left: 20px;
+}
+
+.about-section ul li {
+    margin-bottom: 10px;
+}
+
+.about-footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #333;
+}
