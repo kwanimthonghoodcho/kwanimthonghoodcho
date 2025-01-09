@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/kwanimthonghoodcho/', // GitHub Pages base path
   build: {
-    outDir: 'build', // Output to 'build' directory for gh-pages
+    outDir: 'dist', // Output to 'build' directory for gh-pages
   },
 })
