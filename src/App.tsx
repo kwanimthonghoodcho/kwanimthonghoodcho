@@ -22,9 +22,9 @@ function App() {
       {/* Main Content */}
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/lots" element={<Lots />} />
         <Route path="/about" element={<About />} />
         <Route path="/chunti" element={<Chunti />} />
-        <Route path="/lots" element={<Lots />} />
         <Route path="/donations" element={<Donations />} />
       </Routes>
       {/* Footer */}
