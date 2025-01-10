@@ -8,13 +8,13 @@ const Donations = () => {
 
       <div className="donations-content">
         <p>
-          May your generosity bring blessings and prosperity.
+          Contributions go towards the maintenance of the site. May your generosity bring blessings and prosperity.
         </p>
         <img src={qrPhoto} className="qr" alt="PayNow QR Code" />
       </div>
 
       <p className="note">
-        Please include your name in the payment reference for blessings. All contributions are deeply appreciated.
+        All contributions are deeply appreciated.
       </p>
     </section>
   );
