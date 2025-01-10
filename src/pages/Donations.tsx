@@ -8,7 +8,7 @@ const Donations = () => {
 
       <div className="donations-content">
         <p>
-          Scan the PayNow QR code below if you wish to make a contribution to support the upkeep of this sacred space, community initiatives, and the teachings of wisdom and kindness. May your generosity bring blessings and prosperity.
+          May your generosity bring blessings and prosperity.
         </p>
         <img src={qrPhoto} className="qr" alt="PayNow QR Code" />
       </div>

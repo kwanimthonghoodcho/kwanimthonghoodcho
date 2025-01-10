@@ -19,7 +19,7 @@ const About = () => {
           <strong>Nearest MRT Station:</strong> Bugis MRT Station (DT14/EW12), a 5-minute walk from Exit B.
         </p>
         <p>
-          <strong>Opening Hours:</strong> 7:00 AM – 6:30 PM daily
+          <strong>Opening Hours:</strong> 7:00 AM – 5:30 PM daily
         </p>
         <p>
           Visitors are encouraged to maintain a respectful demeanor within the temple grounds. Photography inside the prayer halls is not permitted out of respect for the worshippers.
