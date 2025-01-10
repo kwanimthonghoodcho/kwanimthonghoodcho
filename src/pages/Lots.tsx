@@ -7,6 +7,11 @@ const lotsData = [
     description: "Be patient. Act as your are capable. Success will follow.",
   },
   {
+    number: 3,
+    title: "A silly bird woh attemped to build a nest of mud although it is socked to the skin and tossed by the wind. The rain finally washes away the nest.",
+    description: "The mind is not free of worries day and night. To act will bring misfortune."
+  },
+  {
     number: 4,
     title: "Imagine a mirror one thousand years old were to brighten again.",
     description: "Time to change to new ways so that the family status will progress. Future generation might benefit 5 x 5 = 25. One can succeed the one could not stop working. Hope is high.",
@@ -32,6 +37,16 @@ const lotsData = [
     description: "Proper effort will lead to success. A Benefactor is likely to render service.",
   },
   {
+    number: 13,
+    title: "Being born in a rich home, one becomes accustomed to luxury. The Ruler bestows one with power. The whole universe acclaim your virtue.",
+    description: "The prisoner is free. Sickness cured. Having reached the Dragon-gate, one's name becomes famous."
+  },
+  {
+    number: 15,
+    title: "Panting due to walking. Upon seeing bad company, avoid them. A bird having lost its roost flies aimlessly seeking shelter.",
+    description: "A person who follows wrong advice could not do right. He could not differentiate right from wrong, good from bad. Best to stick to present situation."
+  },
+  {
     number: 16,
     title: "A person whose eye brow touch each other, looks like a serious worried man. When the sun shines after the clouds have blown away, the future is bright. Even within dirt, lies a precious jade. A skillful person could retrieve it.",
     description: "An evil person beware, if you get this chiam. What is yours, is assured to be yours. Difficult at first, with proper applied skill, success follows.",
@@ -47,6 +62,11 @@ const lotsData = [
     description: "Do not worry. Be firm and receive success. Like a well-aimed arrow, it meets the target.",
   },
   {
+    number: 19,
+    title: "Sailing through rapid storm blowing. How to navigate safety. Do not capsize. Wait till the elements are favourable.",
+    description: "For the present moment, some difficulties. Be patient and wait a while."
+  },
+  {
     number: 20,
     title: "The spring is here, yet it still rains. When the rain stops, joy comes. The sun and moon gradually rises. The old gives way to the new. To see through this is like going through the Dragon gate. The God and Buddha aid you.",
     description: "The situation is right. Proceed. It is just the beginning.",
@@ -60,6 +80,11 @@ const lotsData = [
     number: 22,
     title: "Crops wither due to drought. The sky diety sends rain to cause the crops to become green again. This rainfall is better than all the Treasures of this world.",
     description: "Sillk and harvest three-fold fortune and time is good. Medical help to cure sickness. A safe return from travelling.",
+  },
+  {
+    number: 23,
+    title: "One reaches the gates of Heaven and an old friend lets one in through the well-guarded gate. One rides the clouds.",
+    description: "Business facing some difficulties will flourish. Sickness cured. Civil cases won. Do as you planned."
   },
   {
     number: 24,
@@ -82,6 +107,11 @@ const lotsData = [
     description: "Out with old. In with the new. Flowers bloom again in spring. Your performance seems meaningless, yet you'll find it suits you.",
   },
   {
+    number: 28,
+    title: "One's words is as temperamental as the moon. When clouds shield it, is not round or beautiful.",
+    description: "Do not fear at the present. After circumstance change, all will be well again."
+  },
+  {
     number: 30,
     title: "Do not seek trouble. Does a bird know that it is going to be shot when seeking wood, beware. Snakes might bite one to cause great agony.",
     description: "Shut up, grind your teeth, mind  your own business. If you have evil desire, you are likely to hurt yourself.",
@@ -92,14 +122,29 @@ const lotsData = [
     description: "Within rocks, blessings. Few knew this. Only when one fully understand the problem, then it is safe to go on."
   },
   {
+    number: 33,
+    title: "One's inner organ cannot be replaced. Futile to seek for them. Wait till a Benefactor who has skill, then will one cease to worry.",
+    description: "One possess jewels, yet is ignorant about their value. A jeweller appraises it and then only one learns of its true value."
+  },
+  {
     number: 34,
     title: "The words and deeds of a cultured man is important to heed. If one is inattentive, one might misunderstood them. If one's heart is in the right place, then the sun is at its zenith.",
     description: "No trouble within oneself. Let one mind be pure and clear as the crystal water of the lake. Understanding will follow.",
   },
   {
+    number: 36,
+    title: "Do not be perturbed by what is seen. One will achieve what one sought. Liken unto an escaped monkey, one can chart one's destiny.",
+    description: "There is really no trouble. Rest your mind. Wait for a good chance, then you are free to advance further."
+  },
+  {
     number: 37,
     title: "One believes one is healthy, yet one's health is like a candle flame in the big breeze. To keep the candle burning, find a calm quiet place.",
     description: "Seek solitude in a calm quiet place to get away from the storm. If one is reckless, evil results. Best to stay as you are.",
+  },
+  {
+    number: 39,
+    title: "Do not heed tales coming from afar. Can a stone be turned to a mirror. One will waste much time and effort.",
+    description: "Many futile attempts. Revert to the past situation. Do not seek trouble."
   },
   {
     number: 40,
@@ -142,6 +187,16 @@ const lotsData = [
     description: "What you hoped to achieve, do so. As you go on, good times come. Do not be reckless and observe caution.",
   },
   {
+    number: 52,
+    title: "Trying to catch the reflection of the moon is futile. Do not heed advice lest you be deceived and end up trusting no one.",
+    description: "You cannot understand what you hear. You will not get returns for your effort. It will breed frustration. Perchance a Benefactor can solve your problem."
+  },
+  {
+    number: 54,
+    title: "One awake from a dream about money one presume one can own a mountain but one already have a spade in hand. If you consult about marriage or sickness, best to revert to new means or change partners.",
+    description: "Reflections on water tends to distort. Look properly before one makes decision. Be very careful."
+  },
+  {
     number: 55,
     title: "Father's wisdom descends down his family line. By the blessings of the God, food and clothing are plenty. The Ancestral hall is filled with joy. Eat, sleep, be happy.",
     description: "Bamboo pipe conveying water towards one. The deeds of the superior man pleases you.",
@@ -157,6 +212,11 @@ const lotsData = [
     description: "One is drunk, yet drinks again. Revert to the past when the time comes worries and calamity will cease."
   },
   {
+    number: 61,
+    title: "The rising of the moon is like poems. It declines like the end some scenario of a concert. When one meets friends, it is unavoidable. Plenty of hand-shakes.",
+    description: "A pretty maid singing, one feels glad. Yet one's life seems to be lucky."
+  },
+  {
     number: 63,
     title: "One searches for a needle that fell into the sea long ago while sailing, is futile. This will cause one to waste time and get trouble only. No reward.",
     description: "Luck and fortune must have a good foundation, one rely on. One must have merit to deserve it. Would you heed things explained to you? Listen well before you act."
@@ -165,6 +225,11 @@ const lotsData = [
     number: 64,
     title: "A fish swimming in a puddle of water while nets are around it. It tries to escape, but to no avail. Only trouble is the lot of one who seeks information.",
     description: "One remainds at home, yet the sea rains at one from the sky. Be prepared for the worse."
+  },
+  {
+    number: 65,
+    title: "Do not be deceived by happy sights. You see no danger why hurt yourself by cutting your own flish. Best to settle old score.",
+    description: "Be content and stop if you should. Loosen yourself if you need to loosen. One is hurting one's self."
   },
   {
     number: 67,
@@ -237,6 +302,11 @@ const lotsData = [
     description: "Jade is mined by crackling open huge rocks. Whilst gold dust is obtained by panning dirty. To do anything, use maximum effort and be firm.",
   },
   {
+    number: 88,
+    title: "One places carved wooden tiger at the front of one's door. Although one is assured that it is just a piece of wood, yet one shivered in fear.",
+    description: "Running out of fuel for the fire, one feeds the fire with snow. Even the wind does not enter one's ear. Seek Buddha's help in time all will be well."
+  },
+  {
     number: 89,
     title: "One is well within and without. A valuable jade in the rock. A benefactor points the way to obtain it. Everyone rejoices at your good fortune.",
     description: "A benefactor points out how to achieve it. Heed him. To achieve the prossession of the jade will surely gladden one's heart.",
@@ -252,9 +322,29 @@ const lotsData = [
     description: "Proceed with what you want to achieve. All is well."
   },
   {
+    number: 92,
+    title: "One being independent from young. Luck and good fortune comes naturally. From a minor to senior to reach top grade in the Imperial exams.",
+    description: "From young to old, life is good. Suit yourself. Success follows."
+  },
+  {
+    number: 93,
+    title: "A crane and phoenix look ugly when battered by the rain. The sparrow mocks them, but come the sun, and their plumage are radiant once more.",
+    description: "Evil man is found everywhere. A wise man would not interfere with them. Silence is golden. Wait till the time is due."
+  },
+  {
+    number: 95,
+    title: "You have high hopes and find pleasure in wordly ways. You are destined to meet a Golden-Rooster to point for you the way where gold, etc. are found.",
+    description: "You having meditated deeply in time all will be well. The Golden Rooster will help you."
+  },
+  {
     number: 96,
     title: "A pagoda being erected at a great cost. It gleams from every angle. Be a bit more pios and pray. Heaven will bless you for what you are doing.",
     description: "You have luck. People see it. Do not worry. Many good times are ahead.",
+  },
+  {
+    number: 97,
+    title: "A candle being lit in the breeze. A flowering tree with flowers raining from it. Children gather it to play. This is not reality.",
+    description: "One is fated to be rich or poor. Poor and hardship do not contemplate on them."
   },
   {
     number: 99,
