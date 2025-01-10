@@ -7,6 +7,11 @@ const lotsData = [
     description: "Be patient. Act as your are capable. Success will follow.",
   },
   {
+    number: 4,
+    title: "Imagine a mirror one thousand years old were to brighten again.",
+    description: "Time to change to new ways so that the family status will progress. Future generation might benefit 5 x 5 = 25. One can succeed the one could not stop working. Hope is high.",
+  },
+  {
     number: 6,
     title: "A gorge where even a good flyer bird would not fly into, unless it seeks to die.",
     description: "A matyr is indeed rare. One must first die before one can be called on. Be prepared for the impossible if you seek to undertake what you are hoping to do. Worrying and thoughts tend to confuse. Tranquil mind will suceed. Success if achieve is great.",
@@ -44,6 +49,11 @@ const lotsData = [
     description: "Sickness will be cured. What you are attempting will produce a well giving sweet water.",
   },
   {
+    number: 37,
+    title: "One believes one is healthy, yet one's health is like a candle flame in the big breeze. To keep the candle burning, find a calm quiet place.",
+    description: "Seek solitude in a calm quiet place to get away from the storm. If one is reckless, evil results. Best to stay as you are.",
+  },
+  {
     number: 44,
     title: "Two people having a fight, a draw ensures. But before any of them slips no progress for the other. One must be careful not to make mistake and concentrate.",
     description: "To perform any task involves risk. To overcome the next person, or to lose, one must possess some skill over him, or hiim over you.",
@@ -57,6 +67,11 @@ const lotsData = [
     number: 51,
     title: "Days are longer after Autumn. People tend to get sick. Providence all knowing, breathe forth a gentle breeze.",
     description: "What you hoped to achieve, do so. As you go on, good times come. Do not be reckless and observe caution.",
+  },
+  {
+    number: 55,
+    title: "Father's wisdom descends down his family line. By the blessings of the God, food and clothing are plenty. The Ancestral hall is filled with joy. Eat, sleep, be happy.",
+    description: "Bamboo pipe conveying water towards one. The deeds of the superior man pleases you.",
   },
   {
     number: 57,
