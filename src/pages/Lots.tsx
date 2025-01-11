@@ -252,6 +252,11 @@ const lotsData = [
     description: "You cannot understand what you hear. You will not get returns for your effort. It will breed frustration. Perchance a Benefactor can solve your problem."
   },
   {
+    number: 53,
+    title: "Bad days become good unexpectedly. The Dragon sings while the tiger sings in compliment. There is a route to Heaven. Your hopes will be fulfilled.",
+    description: "If told to do, act at once. If told to stop, stop. Do this and it will bring happiness. All your work is good."
+  },
+  {
     number: 54,
     title: "One awake from a dream about money one presume one can own a mountain but one already have a spade in hand. If you consult about marriage or sickness, best to revert to new means or change partners.",
     description: "Reflections on water tends to distort. Look properly before one makes decision. Be very careful."
