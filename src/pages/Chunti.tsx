@@ -1,6 +1,9 @@
+import chuntiPhoto from '../assets/chunti.jpg';
+
 const Chunti = () => {
     return (
       <section>
+        <img src={chuntiPhoto} className="chunti" alt="Chunti Bodhisattva" />
         <p>
           The Chunti Mantra is a powerful chant believed to purify the mind and heart.
           Chanting it helps to eliminate obstacles and cultivate compassion.
