@@ -20,12 +20,14 @@ function App() {
         <Navigation />
       </div>
       {/* Main Content */}
-      /*<Route path="/donations" element={<Donations />} />*/
+      
       <Routes>
+      
         <Route path="/" element={<Home />} />
         <Route path="/lots" element={<Lots />} />
         <Route path="/about" element={<About />} />
         <Route path="/chunti" element={<Chunti />} />
+        <Route path="/donations" element={<Donations />} />
 
       </Routes>
       {/* Footer */}

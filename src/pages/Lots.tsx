@@ -13,7 +13,7 @@ const lotsData = [
   },
   {
     number: 3,
-    title: "A silly bird woh attemped to build a nest of mud although it is socked to the skin and tossed by the wind. The rain finally washes away the nest.",
+    title: "A silly bird who attemped to build a nest of mud although it is socked to the skin and tossed by the wind. The rain finally washes away the nest.",
     description: "The mind is not free of worries day and night. To act will bring misfortune."
   },
   {
