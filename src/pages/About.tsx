@@ -43,17 +43,18 @@ const About = () => {
         <h2>Cultural Practices and Traditions</h2>
         <ul>
           <li>
-            <strong>Blessings and Prayers:</strong> 
+            <strong>Blessings and Prayers: </strong> 
             The temple is renowned for its practice of <em>lot divination</em>, where devotees seek answers to their personal concerns through the drawing of sacred lots.
           </li>
           <li>
-            <strong>Chanting the Chunti Mantra:</strong> 
-            Visitors are encouraged to participate in or observe the chanting of the <em>Chunti Mantra 準提咒</em>, a sacred chant believed to remove obstacles, purify the mind, and foster compassion.
+            <strong>Chunti Mantra: </strong> 
+            Chunti Guanyin is the main deity worshipped in this temple. Chunti Guanyin is one of the six incarnations of Guanyin to save humanity. The chanting of the <em>Chunti Mantra 準提咒</em>, a sacred chant believed to remove obstacles, purify the mind, and foster compassion.
           </li>
           <li>
-            <strong>Festivals and Events:</strong> 
+            <strong>Festivals and Events: </strong> 
             The temple is especially vibrant during major Buddhist festivals, such as <em>Vesak Day</em> and the <em>Birthday of Guanyin</em>, when devotees gather to offer prayers and participate in charitable activities.
           </li>
+
         </ul>
       </section>
 
